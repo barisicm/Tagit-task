@@ -43,7 +43,6 @@ namespace Tagit_Task
                 catch (Exception e)
                 {
                     invalidTags++;
-                    //Console.WriteLine(e);
                 }
             }
 
